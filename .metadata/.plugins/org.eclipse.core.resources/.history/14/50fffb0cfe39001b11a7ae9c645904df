@@ -1,0 +1,11 @@
+package com.atom.test;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HomeController {
+
+	public void home() {
+		System.out.println("Hi");
+	}
+}

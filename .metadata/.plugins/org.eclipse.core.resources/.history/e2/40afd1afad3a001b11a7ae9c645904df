@@ -1,0 +1,5 @@
+package com.atom.test.model;
+
+public class Alien {
+
+}

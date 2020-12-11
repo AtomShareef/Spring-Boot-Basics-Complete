@@ -1,0 +1,46 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+body{
+margin-top: 19px;
+margin-right: 1148px;
+}
+
+div{
+border: 1px solid;
+margin: 3px;
+}
+
+form{
+
+}
+
+</style>
+
+</head>
+<body>
+
+<div>
+<form action="addAlien" style="padding: 5px; align-items: center; margin: 3px">
+<input type="text" name="aid"><br>
+<input type="text" name="aname"><br>
+<input type="text" name="tech"><br>
+<input type="submit"><br>
+</form>
+</div>
+
+<div style="border: 1px solid;margin: 3px">
+<form action="getAlien" style="padding: 5px; align-items: center; margin: 3px">
+<input type="text" name="aid"><br>
+<input type="submit"><br>
+</form>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package com.atom.sdr.model;
+
+public class Alien {
+
+}

@@ -1,0 +1,9 @@
+package com.atom.test;
+
+public class Alien {
+
+	private int aid;
+	private String aname;
+	private String lang;
+	
+}

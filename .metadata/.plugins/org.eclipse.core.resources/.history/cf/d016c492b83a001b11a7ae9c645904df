@@ -1,0 +1,5 @@
+package com.atom.test.repo;
+
+public interface AlienRepo {
+
+}

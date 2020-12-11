@@ -1,0 +1,8 @@
+package com.atom.test;
+
+public class HomeController {
+
+	public void home() {
+		System.out.println("Hi");
+	}
+}
